@@ -1,7 +1,10 @@
 # ANPR and FRS
 
 Backend Working of Machine Learning Model Video : 
+
+
 https://github.com/puneet73/anpr-and-frs/assets/93940651/80da48d5-547c-4888-afbe-f4a76623de88
+
 
 Advanced automatic number plate recognition (ANPR) and facial recognition system (FRS) solutions refer to the use of sophisticated technology to automatically capture and analyse vehicle licence plates and human faces, respectively. These systems use cameras and software to identify and match patterns, allowing for the quick and accurate identification of individuals and vehicles in various settings. ANPR and FRS solutions have a wide range of applications, from enhancing security and law enforcement to improving traffic management and public safety. However, current ANPR and FRS systems have several limitations and challenges that can be addressed through the development of advanced solutions, and our proposed solution aims to minimize these limitations and overcome these hurdles.
 
